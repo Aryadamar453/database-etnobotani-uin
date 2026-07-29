@@ -1,0 +1,451 @@
+id,folder,location_no,location,location_code,scientific_name
+1,01_FIKES,1,Fakultas Ilmu Kesehatan,FIKES,Calathea lutea
+2,01_FIKES,2,Fakultas Ilmu Kesehatan,FIKES,Dianella ensifolia
+3,01_FIKES,3,Fakultas Ilmu Kesehatan,FIKES,Dracaena surculose
+4,01_FIKES,4,Fakultas Ilmu Kesehatan,FIKES,Heliconia psittacorum
+5,01_FIKES,5,Fakultas Ilmu Kesehatan,FIKES,Terminalia mantaly
+6,01_FIKES,6,Fakultas Ilmu Kesehatan,FIKES,Polyscias fruticose
+7,01_FIKES,7,Fakultas Ilmu Kesehatan,FIKES,Chrysalidocapus lutescens
+8,01_FIKES,8,Fakultas Ilmu Kesehatan,FIKES,Lxora coccinea L
+9,01_FIKES,9,Fakultas Ilmu Kesehatan,FIKES,Excoecaria cochinchinensis lour
+10,01_FIKES,10,Fakultas Ilmu Kesehatan,FIKES,Platycerium bifurcatum
+11,01_FIKES,11,Fakultas Ilmu Kesehatan,FIKES,Cocos nucifera L
+12,01_FIKES,12,Fakultas Ilmu Kesehatan,FIKES,Lxora chinensis lam
+13,01_FIKES,13,Fakultas Ilmu Kesehatan,FIKES,Helconia psttacorum L. F
+14,01_FIKES,14,Fakultas Ilmu Kesehatan,FIKES,Platycladus orientalis
+15,01_FIKES,15,Fakultas Ilmu Kesehatan,FIKES,Hibiscus schizopetalus
+16,01_FIKES,16,Fakultas Ilmu Kesehatan,FIKES,Canna x hybrida
+17,01_FIKES,17,Fakultas Ilmu Kesehatan,FIKES,Casuarina equisetifolia
+18,01_FIKES,18,Fakultas Ilmu Kesehatan,FIKES,Alcantarea imperialis
+19,01_FIKES,19,Fakultas Ilmu Kesehatan,FIKES,Justicia gendarussa
+20,01_FIKES,20,Fakultas Ilmu Kesehatan,FIKES,Alternanthera brasiliana
+21,01_FIKES,21,Fakultas Ilmu Kesehatan,FIKES,Breynia disticha
+22,01_FIKES,22,Fakultas Ilmu Kesehatan,FIKES,Premma serratifolia L
+23,01_FIKES,23,Fakultas Ilmu Kesehatan,FIKES,Bougainvillea glabra choisy
+24,01_FIKES,24,Fakultas Ilmu Kesehatan,FIKES,Ficus pumila L
+25,01_FIKES,25,Fakultas Ilmu Kesehatan,FIKES,Chrysalidocarpus lutescens H.wendl
+26,01_FIKES,26,Fakultas Ilmu Kesehatan,FIKES,Plumeria rubra L
+27,01_FIKES,27,Fakultas Ilmu Kesehatan,FIKES,Rhapis excelsa
+28,01_FIKES,28,Fakultas Ilmu Kesehatan,FIKES,Vitis rotundifolia
+29,01_FIKES,29,Fakultas Ilmu Kesehatan,FIKES,Dracaena draco
+30,01_FIKES,30,Fakultas Ilmu Kesehatan,FIKES,Dracaena trifasciata
+31,01_FIKES,31,Fakultas Ilmu Kesehatan,FIKES,Neoregelia farinose
+32,01_FIKES,32,Fakultas Ilmu Kesehatan,FIKES,Axonopus compressus
+33,01_FIKES,33,Fakultas Ilmu Kesehatan,FIKES,Psidium guajava L
+34,01_FIKES,34,Fakultas Ilmu Kesehatan,FIKES,Citrus x aurantium
+35,01_FIKES,35,Fakultas Ilmu Kesehatan,FIKES,Ricinus communis L
+36,01_FIKES,36,Fakultas Ilmu Kesehatan,FIKES,Breynia androgyna
+37,01_FIKES,37,Fakultas Ilmu Kesehatan,FIKES,Podocarpus macrophyllus
+38,01_FIKES,38,Fakultas Ilmu Kesehatan,FIKES,Araucaria columnaris
+39,01_FIKES,39,Fakultas Ilmu Kesehatan,FIKES,Diospyros blancoi
+40,01_FIKES,40,Fakultas Ilmu Kesehatan,FIKES,Ficus carica
+41,01_FIKES,41,Fakultas Ilmu Kesehatan,FIKES,Lantana canescens
+42,01_FIKES,42,Fakultas Ilmu Kesehatan,FIKES,Podocarpus macrophyllus
+43,01_FIKES,43,Fakultas Ilmu Kesehatan,FIKES,Tabebuia aurea
+44,01_FIKES,44,Fakultas Ilmu Kesehatan,FIKES,Lantana canescens
+45,01_FIKES,45,Fakultas Ilmu Kesehatan,FIKES,Capsicum chinense jacq
+46,01_FIKES,46,Fakultas Ilmu Kesehatan,FIKES,Solanum erianthum
+47,01_FIKES,47,Fakultas Ilmu Kesehatan,FIKES,Persea americana
+48,01_FIKES,48,Fakultas Ilmu Kesehatan,FIKES,Carica papaya L
+49,01_FIKES,49,Fakultas Ilmu Kesehatan,FIKES,Muntingia calabura L
+50,01_FIKES,50,Fakultas Ilmu Kesehatan,FIKES,Rivina humilis L
+51,01_FIKES,51,Fakultas Ilmu Kesehatan,FIKES,Heptapleurum arboricola hayata
+52,01_FIKES,52,Fakultas Ilmu Kesehatan,FIKES,Celosia argentea L
+53,01_FIKES,53,Fakultas Ilmu Kesehatan,FIKES,Cascabela thevetia
+54,01_FIKES,54,Fakultas Ilmu Kesehatan,FIKES,Cyrtostachys renda
+55,02_FK,1,Fakultas Kedokteran,FK,Cerbera odollam
+56,02_FK,2,Fakultas Kedokteran,FK,Epipremnum pinnatum
+57,02_FK,3,Fakultas Kedokteran,FK,Cerbera odollam
+58,02_FK,4,Fakultas Kedokteran,FK,Mimusops elengi L
+59,02_FK,5,Fakultas Kedokteran,FK,Mimusops elengi L
+60,02_FK,6,Fakultas Kedokteran,FK,Mimusops elengi L
+61,02_FK,7,Fakultas Kedokteran,FK,Mangifera indica L
+62,02_FK,8,Fakultas Kedokteran,FK,Carbera manghas
+63,02_FK,9,Fakultas Kedokteran,FK,Aquilaria crassna
+64,02_FK,10,Fakultas Kedokteran,FK,Ficus lyrata
+65,02_FK,11,Fakultas Kedokteran,FK,Mimusops elengi L
+66,02_FK,12,Fakultas Kedokteran,FK,Casuarina equisetifolia L
+67,02_FK,13,Fakultas Kedokteran,FK,Ptychosperma propinguum
+68,02_FK,14,Fakultas Kedokteran,FK,Cocos nucifera
+69,02_FK,15,Fakultas Kedokteran,FK,Cresentia cujete
+70,02_FK,16,Fakultas Kedokteran,FK,Cresentia cujete
+71,02_FK,17,Fakultas Kedokteran,FK,Newbouldia laevis
+72,02_FK,18,Fakultas Kedokteran,FK,Newbouldia laevis
+73,02_FK,19,Fakultas Kedokteran,FK,Manilkara zapota
+74,02_FK,20,Fakultas Kedokteran,FK,Syzygium jambos L
+75,02_FK,21,Fakultas Kedokteran,FK,Syzygium jambos L
+76,02_FK,22,Fakultas Kedokteran,FK,Ficus callosa
+77,02_FK,23,Fakultas Kedokteran,FK,Nephelium lappaceum
+78,02_FK,24,Fakultas Kedokteran,FK,Aqualaria sinensis
+79,02_FK,25,Fakultas Kedokteran,FK,Garcinia dulcis
+80,02_FK,26,Fakultas Kedokteran,FK,Mangifera indica L
+81,02_FK,27,Fakultas Kedokteran,FK,Nephelium lappaceum L
+82,02_FK,28,Fakultas Kedokteran,FK,Aqualaria crassna
+83,02_FK,29,Fakultas Kedokteran,FK,Syzygium jambos
+84,02_FK,30,Fakultas Kedokteran,FK,Syzygium cumini/ jambu keling
+85,02_FK,31,Fakultas Kedokteran,FK,Bridea tomentosa
+86,02_FK,32,Fakultas Kedokteran,FK,Terminalia mantaly
+87,02_FK,33,Fakultas Kedokteran,FK,Averrhoa carambola L
+88,02_FK,34,Fakultas Kedokteran,FK,Phoenix roebelenii
+89,02_FK,35,Fakultas Kedokteran,FK,Helianthus annus L
+90,02_FK,36,Fakultas Kedokteran,FK,Gardenia jasminoides
+91,02_FK,37,Fakultas Kedokteran,FK,Phalaenopsis amabilis
+92,02_FK,38,Fakultas Kedokteran,FK,Persea americana
+93,02_FK,39,Fakultas Kedokteran,FK,Phalaenopsis x singuliflora
+94,02_FK,40,Fakultas Kedokteran,FK,Pandanus pygmaeus thouars
+95,02_FK,41,Fakultas Kedokteran,FK,Spathiphyllum blandum
+96,02_FK,42,Fakultas Kedokteran,FK,Phalaenopsis amabilis
+97,02_FK,43,Fakultas Kedokteran,FK,Jatropha curcas L
+98,02_FK,44,Fakultas Kedokteran,FK,Lxora coccinea L
+99,02_FK,45,Fakultas Kedokteran,FK,Saribus rotundifolius
+100,02_FK,46,Fakultas Kedokteran,FK,Antidesma bunius
+101,02_FK,47,Fakultas Kedokteran,FK,Dracaena reflexa lam
+102,02_FK,48,Fakultas Kedokteran,FK,Terminalia mantaly
+103,02_FK,49,Fakultas Kedokteran,FK,Polyalthia longifolia
+104,02_FK,50,Fakultas Kedokteran,FK,Pttchosperma macarthurii
+105,02_FK,51,Fakultas Kedokteran,FK,Styrax sp
+106,02_FK,52,Fakultas Kedokteran,FK,Bauhinia purpurea
+107,02_FK,53,Fakultas Kedokteran,FK,Bauhinia purpurea
+108,02_FK,54,Fakultas Kedokteran,FK,Crossandra infundibuliformis
+109,03_FEB,1,Fakultas Ekonomi dan Bisnis,FEB,Vitis vinifera
+110,03_FEB,2,Fakultas Ekonomi dan Bisnis,FEB,Nephelium lappaceum l
+111,03_FEB,3,Fakultas Ekonomi dan Bisnis,FEB,Dendrocalamus giganteus
+112,03_FEB,4,Fakultas Ekonomi dan Bisnis,FEB,Capsicum frutescens l
+113,03_FEB,5,Fakultas Ekonomi dan Bisnis,FEB,Aglaonema commutatum
+114,03_FEB,6,Fakultas Ekonomi dan Bisnis,FEB,Ravenia spectabilis
+115,03_FEB,7,Fakultas Ekonomi dan Bisnis,FEB,Muntingia calabura L
+116,03_FEB,8,Fakultas Ekonomi dan Bisnis,FEB,Mangifera indica L
+117,03_FEB,9,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea x buttiana
+118,03_FEB,10,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea x buttiana
+119,03_FEB,11,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea x buttiana
+120,03_FEB,12,Fakultas Ekonomi dan Bisnis,FEB,Codiaeum variegatum
+121,03_FEB,13,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea glabra
+122,03_FEB,14,Fakultas Ekonomi dan Bisnis,FEB,Ravenia spectabilis
+123,03_FEB,15,Fakultas Ekonomi dan Bisnis,FEB,Tarlmounia elliptica
+124,03_FEB,16,Fakultas Ekonomi dan Bisnis,FEB,Annoa muricata L
+125,03_FEB,17,Fakultas Ekonomi dan Bisnis,FEB,Durio zibethinus
+126,03_FEB,18,Fakultas Ekonomi dan Bisnis,FEB,Cojoba arborea
+127,03_FEB,19,Fakultas Ekonomi dan Bisnis,FEB,Syzygium malaccense
+128,03_FEB,20,Fakultas Ekonomi dan Bisnis,FEB,Ficus septica
+129,03_FEB,21,Fakultas Ekonomi dan Bisnis,FEB,Adonidia merrillii
+130,03_FEB,22,Fakultas Ekonomi dan Bisnis,FEB,Dendrocalamus giganteus
+131,03_FEB,23,Fakultas Ekonomi dan Bisnis,FEB,Ficus lyrata
+132,03_FEB,24,Fakultas Ekonomi dan Bisnis,FEB,Acalypha siamensis
+133,03_FEB,25,Fakultas Ekonomi dan Bisnis,FEB,Monoon longifolium
+134,03_FEB,26,Fakultas Ekonomi dan Bisnis,FEB,Tarlmounia elliptica
+135,03_FEB,27,Fakultas Ekonomi dan Bisnis,FEB,Syzygium jambos
+136,03_FEB,28,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea x buttiana
+137,03_FEB,29,Fakultas Ekonomi dan Bisnis,FEB,Adenium multiflorum
+138,03_FEB,30,Fakultas Ekonomi dan Bisnis,FEB,Lyceum barbarum
+139,03_FEB,31,Fakultas Ekonomi dan Bisnis,FEB,Terminalia catappa L
+140,03_FEB,32,Fakultas Ekonomi dan Bisnis,FEB,Platycerium bifurcatum
+141,03_FEB,33,Fakultas Ekonomi dan Bisnis,FEB,Plumeria rubra L
+142,03_FEB,34,Fakultas Ekonomi dan Bisnis,FEB,Psidium guajava L
+143,03_FEB,35,Fakultas Ekonomi dan Bisnis,FEB,Mangifera indica L
+144,03_FEB,36,Fakultas Ekonomi dan Bisnis,FEB,Chlorophytum capense L
+145,03_FEB,37,Fakultas Ekonomi dan Bisnis,FEB,Aglaonema commutatum
+146,03_FEB,38,Fakultas Ekonomi dan Bisnis,FEB,Excoecaria cochinchinensis
+147,03_FEB,39,Fakultas Ekonomi dan Bisnis,FEB,Coleus decurrens
+148,03_FEB,40,Fakultas Ekonomi dan Bisnis,FEB,Dracaena hyacithoides
+149,03_FEB,41,Fakultas Ekonomi dan Bisnis,FEB,Osmoxylon lineare
+150,03_FEB,42,Fakultas Ekonomi dan Bisnis,FEB,Dracaena trifasciata
+151,03_FEB,43,Fakultas Ekonomi dan Bisnis,FEB,Furcraea foetida
+152,03_FEB,44,Fakultas Ekonomi dan Bisnis,FEB,Lxora chinensis L
+153,03_FEB,45,Fakultas Ekonomi dan Bisnis,FEB,Alcantarea imperialis
+154,03_FEB,46,Fakultas Ekonomi dan Bisnis,FEB,Areca catechu
+155,03_FEB,47,Fakultas Ekonomi dan Bisnis,FEB,Alocasia sanderiana
+156,03_FEB,48,Fakultas Ekonomi dan Bisnis,FEB,Euphorbia lactea
+157,03_FEB,49,Fakultas Ekonomi dan Bisnis,FEB,Lxora coccinea L
+158,03_FEB,50,Fakultas Ekonomi dan Bisnis,FEB,Hibiscus fragilis
+159,03_FEB,51,Fakultas Ekonomi dan Bisnis,FEB,Bougainvillea x buttiana
+160,03_FEB,52,Fakultas Ekonomi dan Bisnis,FEB,Lxora chinensis L
+161,03_FEB,53,Fakultas Ekonomi dan Bisnis,FEB,Morinda citrifolia L
+162,03_FEB,54,Fakultas Ekonomi dan Bisnis,FEB,Manilkara zapota
+163,03_FEB,55,Fakultas Ekonomi dan Bisnis,FEB,Psidium guajava
+164,03_FEB,56,Fakultas Ekonomi dan Bisnis,FEB,Mangifera indica
+165,03_FEB,57,Fakultas Ekonomi dan Bisnis,FEB,Syzygium aqueum
+166,03_FEB,58,Fakultas Ekonomi dan Bisnis,FEB,Philodendron burle-marxii
+167,03_FEB,59,Fakultas Ekonomi dan Bisnis,FEB,Rosa foetida
+168,03_FEB,60,Fakultas Ekonomi dan Bisnis,FEB,Rosa abietina
+169,03_FEB,61,Fakultas Ekonomi dan Bisnis,FEB,Osmoxylon lineare
+170,03_FEB,62,Fakultas Ekonomi dan Bisnis,FEB,Wrightia antidysenterica
+171,03_FEB,63,Fakultas Ekonomi dan Bisnis,FEB,Ficus padana
+172,04_FAH,1,Fakultas Adab dan Humaniora,FAH,Ficus bejamina
+173,04_FAH,2,Fakultas Adab dan Humaniora,FAH,Terminalia mantaly
+174,04_FAH,3,Fakultas Adab dan Humaniora,FAH,Howea forsteriana
+175,04_FAH,4,Fakultas Adab dan Humaniora,FAH,Plumeria rubra
+176,04_FAH,5,Fakultas Adab dan Humaniora,FAH,Adonidia merrillii
+177,04_FAH,6,Fakultas Adab dan Humaniora,FAH,Excoecaria cochinchinensis
+178,04_FAH,7,Fakultas Adab dan Humaniora,FAH,Anthurium hookeri
+179,04_FAH,8,Fakultas Adab dan Humaniora,FAH,Clitoria ternatea L
+180,04_FAH,9,Fakultas Adab dan Humaniora,FAH,Ficus retusa
+181,04_FAH,10,Fakultas Adab dan Humaniora,FAH,Carica papaya L
+182,04_FAH,11,Fakultas Adab dan Humaniora,FAH,Ficus retusa
+183,04_FAH,12,Fakultas Adab dan Humaniora,FAH,Dracaena surculose
+184,04_FAH,13,Fakultas Adab dan Humaniora,FAH,Peperomia pellucida
+185,04_FAH,14,Fakultas Adab dan Humaniora,FAH,Ocimun americanum
+186,04_FAH,15,Fakultas Adab dan Humaniora,FAH,Ocimun americanum
+187,04_FAH,16,Fakultas Adab dan Humaniora,FAH,Ocimun americanum
+188,04_FAH,17,Fakultas Adab dan Humaniora,FAH,Solanum melongena L
+189,04_FAH,18,Fakultas Adab dan Humaniora,FAH,Capsium frutescens
+190,04_FAH,19,Fakultas Adab dan Humaniora,FAH,Hibiscus sabdariffa
+191,04_FAH,20,Fakultas Adab dan Humaniora,FAH,Dendrobium nobile
+192,04_FAH,21,Fakultas Adab dan Humaniora,FAH,Philodendron bipinnatifidum
+193,04_FAH,22,Fakultas Adab dan Humaniora,FAH,Cyrtostachys renda
+194,04_FAH,23,Fakultas Adab dan Humaniora,FAH,Duranta erecta L
+195,04_FAH,24,Fakultas Adab dan Humaniora,FAH,Asplenium nidus
+196,04_FAH,25,Fakultas Adab dan Humaniora,FAH,Aglaonema costatum
+197,04_FAH,26,Fakultas Adab dan Humaniora,FAH,Canna x hybrida
+198,04_FAH,27,Fakultas Adab dan Humaniora,FAH,Philodendron martianum
+199,04_FAH,28,Fakultas Adab dan Humaniora,FAH,Hetapleurum actinophyllum
+200,04_FAH,29,Fakultas Adab dan Humaniora,FAH,Ruellia simplex
+201,04_FAH,30,Fakultas Adab dan Humaniora,FAH,Dracaena angustifolia
+202,04_FAH,31,Fakultas Adab dan Humaniora,FAH,Heliconia psittacorum
+203,04_FAH,32,Fakultas Adab dan Humaniora,FAH,Phyllanthus reticulatus
+204,04_FAH,33,Fakultas Adab dan Humaniora,FAH,Mangifera indica L
+205,04_FAH,34,Fakultas Adab dan Humaniora,FAH,Phoenix dactylifera L
+206,04_FAH,35,Fakultas Adab dan Humaniora,FAH,Dracaena surculose
+207,04_FAH,36,Fakultas Adab dan Humaniora,FAH,Polyscias guilfoylei
+208,04_FAH,37,Fakultas Adab dan Humaniora,FAH,Persea americana
+209,04_FAH,38,Fakultas Adab dan Humaniora,FAH,Syzygium samarangense
+210,04_FAH,39,Fakultas Adab dan Humaniora,FAH,Loropetalum chinense
+211,04_FAH,40,Fakultas Adab dan Humaniora,FAH,Alcantarea imperialis
+212,04_FAH,41,Fakultas Adab dan Humaniora,FAH,Clitoria ternatea
+213,04_FAH,42,Fakultas Adab dan Humaniora,FAH,Syzygium malaccense
+214,04_FAH,43,Fakultas Adab dan Humaniora,FAH,Perilla frutescens L
+215,04_FAH,44,Fakultas Adab dan Humaniora,FAH,Lxora coccinea L
+216,04_FAH,45,Fakultas Adab dan Humaniora,FAH,Citrus x aurantiifolia
+217,04_FAH,46,Fakultas Adab dan Humaniora,FAH,Syzygium samarangense
+218,04_FAH,47,Fakultas Adab dan Humaniora,FAH,Asystasia intrusa
+219,04_FAH,48,Fakultas Adab dan Humaniora,FAH,Dracaena masoniana
+220,04_FAH,49,Fakultas Adab dan Humaniora,FAH,Adonidia merrillii
+221,04_FAH,50,Fakultas Adab dan Humaniora,FAH,Philodendron burle-marxii
+222,04_FAH,51,Fakultas Adab dan Humaniora,FAH,Rosa abietina
+223,04_FAH,52,Fakultas Adab dan Humaniora,FAH,Pometia pinnata
+224,04_FAH,53,Fakultas Adab dan Humaniora,FAH,Dimocarpus longan
+225,04_FAH,54,Fakultas Adab dan Humaniora,FAH,Commelina benghalensis
+226,04_FAH,55,Fakultas Adab dan Humaniora,FAH,Pouzolzia zeylanica
+227,04_FAH,56,Fakultas Adab dan Humaniora,FAH,Capsicum frutescens
+228,04_FAH,57,Fakultas Adab dan Humaniora,FAH,Adonidia merrillii
+229,04_FAH,58,Fakultas Adab dan Humaniora,FAH,Cissus repens
+230,04_FAH,59,Fakultas Adab dan Humaniora,FAH,Capsicum chinense
+231,04_FAH,60,Fakultas Adab dan Humaniora,FAH,Osmoxylon lineare
+232,04_FAH,61,Fakultas Adab dan Humaniora,FAH,Costus spiralis
+233,04_FAH,62,Fakultas Adab dan Humaniora,FAH,Wrightia religiosa
+234,04_FAH,63,Fakultas Adab dan Humaniora,FAH,Plumeria rubra L
+235,04_FAH,64,Fakultas Adab dan Humaniora,FAH,Philodendron giganteum
+236,04_FAH,65,Fakultas Adab dan Humaniora,FAH,Ficus callosa
+237,04_FAH,66,Fakultas Adab dan Humaniora,FAH,Nephrolepis cordifolia
+238,04_FAH,67,Fakultas Adab dan Humaniora,FAH,Osmoxylon lineare
+239,04_FAH,68,Fakultas Adab dan Humaniora,FAH,Pometia pinnata
+240,04_FAH,69,Fakultas Adab dan Humaniora,FAH,Artocarpus heterophyllus
+241,04_FAH,70,Fakultas Adab dan Humaniora,FAH,Azadirachta indica
+242,04_FAH,71,Fakultas Adab dan Humaniora,FAH,Cocos nucifera
+243,04_FAH,72,Fakultas Adab dan Humaniora,FAH,Musa acuminata
+244,04_FAH,73,Fakultas Adab dan Humaniora,FAH,Euphorbia tirucalli
+245,05_FISIP,1,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Piper aduncum
+246,05_FISIP,2,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Cissus repens
+247,05_FISIP,3,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Rivina humilis
+248,05_FISIP,4,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Philodendron bipinnatifidum
+249,05_FISIP,5,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus callosa
+250,05_FISIP,6,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus callosa
+251,05_FISIP,7,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dieffenbachia Seguine
+252,05_FISIP,8,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ruellia tuberosa
+253,05_FISIP,9,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia mahagoni
+254,05_FISIP,10,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus benjamina
+255,05_FISIP,11,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+256,05_FISIP,12,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Phoenix roebelenii
+257,05_FISIP,13,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Artocarpus heterophyllus
+258,05_FISIP,14,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Acalpha siamensis
+259,05_FISIP,15,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+260,05_FISIP,16,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+261,05_FISIP,17,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Acalpha siamensis
+262,05_FISIP,18,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Syzygium paniculatum
+263,05_FISIP,19,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus retusa
+264,05_FISIP,20,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Artocarpus altilis
+265,05_FISIP,21,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus callosa
+266,05_FISIP,22,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Durante erecta
+267,05_FISIP,23,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Costus spiralis
+268,05_FISIP,24,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Lantana canescens
+269,05_FISIP,25,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Lxora chinensis
+270,05_FISIP,26,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+271,05_FISIP,27,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+272,05_FISIP,28,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Syzygium myrtifolium
+273,05_FISIP,29,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Cordyline fruticose
+274,05_FISIP,30,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Pseudoconyza viscosa
+275,05_FISIP,31,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Naphellium hypoleucum
+276,05_FISIP,32,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Mangifera indica L
+277,05_FISIP,33,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Mangifera indica L
+278,05_FISIP,34,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Chrysalidocarpus lutescens
+279,05_FISIP,35,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dracaena angustifolia
+280,05_FISIP,36,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Mimuspos elengi L
+281,05_FISIP,37,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Syzygium malaccense
+282,05_FISIP,38,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dracaena cochinchinensis
+283,05_FISIP,39,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Tradescantia spathacea
+284,05_FISIP,40,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Aglaonema nitidum
+285,05_FISIP,41,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dimocarpus longan
+286,05_FISIP,42,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Musa basjo
+287,05_FISIP,43,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus callosa
+288,05_FISIP,44,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Heliconia rostrata
+289,05_FISIP,45,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Macaranga tanarius
+290,05_FISIP,46,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Plumeria alba
+291,05_FISIP,47,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Breynia disticha
+292,05_FISIP,48,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Syzygium myrtifolium
+293,05_FISIP,49,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Justicia gendarussa
+294,05_FISIP,50,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus lyrata
+295,05_FISIP,51,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dracaena trifasciata
+296,05_FISIP,52,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Manilkara zapotaa
+297,05_FISIP,53,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Annona muricata L
+298,05_FISIP,54,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Tabernaemontana divaricate
+299,05_FISIP,55,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Carica papaya
+300,05_FISIP,56,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Averrhoa bilimbi L
+301,05_FISIP,57,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Cnidoscolus aconitifolius
+302,05_FISIP,58,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Cocos nucifera L
+303,05_FISIP,59,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Cissus verticillata
+304,05_FISIP,60,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Mikania micrantha
+305,05_FISIP,61,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus callosa
+306,05_FISIP,62,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Piper aduncum
+307,05_FISIP,63,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Acacia auriculiformis
+308,05_FISIP,64,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Syzygium samarangense
+309,05_FISIP,65,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Carica papaya
+310,05_FISIP,66,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Manihot esculenta
+311,05_FISIP,67,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Mangifera indica L
+312,05_FISIP,68,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Licuala grandis
+313,05_FISIP,69,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Annona squamosa
+314,05_FISIP,70,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Tabebuia rosea
+315,05_FISIP,71,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Persea americana
+316,05_FISIP,72,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Osmoxylon lineare
+317,05_FISIP,73,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Duranta erecta L
+318,05_FISIP,74,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Casuarina equisetifolia
+319,05_FISIP,75,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Heptapleurum arboricola
+320,05_FISIP,76,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Chlorophytum orchidastrum
+321,05_FISIP,77,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Nelumbo nucifera
+322,05_FISIP,78,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Nephrolepis cordifolia
+323,05_FISIP,79,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Bougainvillea x buttiana
+324,05_FISIP,80,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Psidium guajava L
+325,05_FISIP,81,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Philodendron martianum
+326,05_FISIP,82,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Heptapleurum actinophyllum
+327,05_FISIP,83,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Swietenia macrophylla
+328,05_FISIP,84,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Ficus racemosa
+329,05_FISIP,85,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Goeppertia concinna
+330,05_FISIP,86,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Rhaphidophora tetrasperma
+331,05_FISIP,87,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Araucaria columnaris
+332,05_FISIP,88,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Dimocarpus logan L
+333,05_FISIP,89,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Heptapleurum actinophyllum
+334,05_FISIP,90,Fakultas Ilmu Sosial dan Ilmu Politik,FISIP,Artocarpus heterophyllus
+335,06_KAMPUS1,1,Kawasan Kampus I/Rektorat,Kampus I,Cereus hexagonus
+336,06_KAMPUS1,2,Kawasan Kampus I/Rektorat,Kampus I,Dracaena reflexa
+337,06_KAMPUS1,3,Kawasan Kampus I/Rektorat,Kampus I,Loropetalum chinense
+338,06_KAMPUS1,4,Kawasan Kampus I/Rektorat,Kampus I,Tabernaemontana divaricate
+339,06_KAMPUS1,5,Kawasan Kampus I/Rektorat,Kampus I,Breynia disticha
+340,06_KAMPUS1,6,Kawasan Kampus I/Rektorat,Kampus I,Alcantarea imperialis
+341,06_KAMPUS1,7,Kawasan Kampus I/Rektorat,Kampus I,Dracaena reflexa
+342,06_KAMPUS1,8,Kawasan Kampus I/Rektorat,Kampus I,Roystonea regia
+343,06_KAMPUS1,9,Kawasan Kampus I/Rektorat,Kampus I,Ficus septica
+344,06_KAMPUS1,10,Kawasan Kampus I/Rektorat,Kampus I,Syzygium malaccense
+345,06_KAMPUS1,11,Kawasan Kampus I/Rektorat,Kampus I,Ravenia spectabilis
+346,06_KAMPUS1,12,Kawasan Kampus I/Rektorat,Kampus I,Dracaena cochinchinensis
+347,06_KAMPUS1,13,Kawasan Kampus I/Rektorat,Kampus I,Pterocarpus indicus
+348,06_KAMPUS1,14,Kawasan Kampus I/Rektorat,Kampus I,Ficus lyrata
+349,06_KAMPUS1,15,Kawasan Kampus I/Rektorat,Kampus I,Adenanthera pavonine
+350,06_KAMPUS1,16,Kawasan Kampus I/Rektorat,Kampus I,Lxora coccinea
+351,06_KAMPUS1,17,Kawasan Kampus I/Rektorat,Kampus I,Excoecaria cochinchinensis
+352,06_KAMPUS1,18,Kawasan Kampus I/Rektorat,Kampus I,Nephrolepsis cordifolia
+353,06_KAMPUS1,19,Kawasan Kampus I/Rektorat,Kampus I,Synedrella nodiflora
+354,06_KAMPUS1,20,Kawasan Kampus I/Rektorat,Kampus I,Dracaena reflexa
+355,06_KAMPUS1,21,Kawasan Kampus I/Rektorat,Kampus I,Lxora chinensis
+356,06_KAMPUS1,22,Kawasan Kampus I/Rektorat,Kampus I,Casuarina equisetifolia
+357,06_KAMPUS1,23,Kawasan Kampus I/Rektorat,Kampus I,Mimusops elengi
+358,06_KAMPUS1,24,Kawasan Kampus I/Rektorat,Kampus I,Monoon longifolium
+359,06_KAMPUS1,25,Kawasan Kampus I/Rektorat,Kampus I,Dracaena fragrans
+360,06_KAMPUS1,26,Kawasan Kampus I/Rektorat,Kampus I,Chrysalidocarpus lutescens
+361,06_KAMPUS1,27,Kawasan Kampus I/Rektorat,Kampus I,Tabernaemontana elegans
+362,06_KAMPUS1,28,Kawasan Kampus I/Rektorat,Kampus I,Magnolia champaca
+363,06_KAMPUS1,29,Kawasan Kampus I/Rektorat,Kampus I,Araucaria heterophylla
+364,06_KAMPUS1,30,Kawasan Kampus I/Rektorat,Kampus I,Ficus padana
+365,06_KAMPUS1,31,Kawasan Kampus I/Rektorat,Kampus I,Morinda citrifolia
+366,06_KAMPUS1,32,Kawasan Kampus I/Rektorat,Kampus I,Osmoxylon lineare
+367,06_KAMPUS1,33,Kawasan Kampus I/Rektorat,Kampus I,Adenium obesum
+368,06_KAMPUS1,34,Kawasan Kampus I/Rektorat,Kampus I,Spathiphyllum blandum
+369,06_KAMPUS1,35,Kawasan Kampus I/Rektorat,Kampus I,Ficus benjamina
+370,06_KAMPUS1,36,Kawasan Kampus I/Rektorat,Kampus I,Goeppertia bachemiana
+371,06_KAMPUS1,37,Kawasan Kampus I/Rektorat,Kampus I,Carbera manghas
+372,06_KAMPUS1,38,Kawasan Kampus I/Rektorat,Kampus I,Macaranga tanarius
+373,06_KAMPUS1,39,Kawasan Kampus I/Rektorat,Kampus I,Piper aduncum
+374,06_KAMPUS1,40,Kawasan Kampus I/Rektorat,Kampus I,Agave demeesteriana
+375,06_KAMPUS1,41,Kawasan Kampus I/Rektorat,Kampus I,Macaranga tanarius
+376,06_KAMPUS1,42,Kawasan Kampus I/Rektorat,Kampus I,Capsicum frutescens
+377,06_KAMPUS1,43,Kawasan Kampus I/Rektorat,Kampus I,Anthurium radicans
+378,06_KAMPUS1,44,Kawasan Kampus I/Rektorat,Kampus I,Clitoria ternatea L
+379,06_KAMPUS1,45,Kawasan Kampus I/Rektorat,Kampus I,Aloe officinalis
+380,06_KAMPUS1,46,Kawasan Kampus I/Rektorat,Kampus I,Ocimum americanum
+381,06_KAMPUS1,47,Kawasan Kampus I/Rektorat,Kampus I,Chrysophyllum caimito
+382,06_KAMPUS1,48,Kawasan Kampus I/Rektorat,Kampus I,Swietenia macrophylla
+383,06_KAMPUS1,49,Kawasan Kampus I/Rektorat,Kampus I,Ficus benghalensis
+384,06_KAMPUS1,50,Kawasan Kampus I/Rektorat,Kampus I,Bergera koenigii
+385,06_KAMPUS1,51,Kawasan Kampus I/Rektorat,Kampus I,Euphorbia millii
+386,06_KAMPUS1,52,Kawasan Kampus I/Rektorat,Kampus I,Impatiens balsamina
+387,06_KAMPUS1,53,Kawasan Kampus I/Rektorat,Kampus I,Manikara kauki
+388,06_KAMPUS1,54,Kawasan Kampus I/Rektorat,Kampus I,J. lemontea
+389,06_KAMPUS1,55,Kawasan Kampus I/Rektorat,Kampus I,Persea americana
+390,06_KAMPUS1,56,Kawasan Kampus I/Rektorat,Kampus I,Durio zibethinus
+391,06_KAMPUS1,57,Kawasan Kampus I/Rektorat,Kampus I,J. limo
+392,06_KAMPUS1,58,Kawasan Kampus I/Rektorat,Kampus I,Chrysalidocarpus lutescens
+393,06_KAMPUS1,59,Kawasan Kampus I/Rektorat,Kampus I,Psidium guajava
+394,06_KAMPUS1,60,Kawasan Kampus I/Rektorat,Kampus I,Eclipta postrata
+395,06_KAMPUS1,61,Kawasan Kampus I/Rektorat,Kampus I,Lxora chinensis
+396,06_KAMPUS1,62,Kawasan Kampus I/Rektorat,Kampus I,Goeppertia picturata
+397,06_KAMPUS1,63,Kawasan Kampus I/Rektorat,Kampus I,Syzygium samarangense
+398,06_KAMPUS1,64,Kawasan Kampus I/Rektorat,Kampus I,Citrus x aurantiifolia
+399,06_KAMPUS1,65,Kawasan Kampus I/Rektorat,Kampus I,Nephelium lappaceum
+400,06_KAMPUS1,66,Kawasan Kampus I/Rektorat,Kampus I,Hibiscus schizopetalus
+401,06_KAMPUS1,67,Kawasan Kampus I/Rektorat,Kampus I,Dimocarpus longan lour
+402,06_KAMPUS1,68,Kawasan Kampus I/Rektorat,Kampus I,Hura crepitans
+403,06_KAMPUS1,69,Kawasan Kampus I/Rektorat,Kampus I,Manihot esculenta
+404,06_KAMPUS1,70,Kawasan Kampus I/Rektorat,Kampus I,Psidium guajava
+405,06_KAMPUS1,71,Kawasan Kampus I/Rektorat,Kampus I,Manilkara zapota
+406,06_KAMPUS1,72,Kawasan Kampus I/Rektorat,Kampus I,Carica papaya
+407,06_KAMPUS1,73,Kawasan Kampus I/Rektorat,Kampus I,Lxora coccinea
+408,06_KAMPUS1,74,Kawasan Kampus I/Rektorat,Kampus I,Switenia mahagoni
+409,06_KAMPUS1,75,Kawasan Kampus I/Rektorat,Kampus I,Syzygium aqueum
+410,06_KAMPUS1,76,Kawasan Kampus I/Rektorat,Kampus I,Bougainvillea x buttiana
+411,06_KAMPUS1,77,Kawasan Kampus I/Rektorat,Kampus I,Calathea lutea
+412,06_KAMPUS1,78,Kawasan Kampus I/Rektorat,Kampus I,Wrightia antidysenterica
+413,06_KAMPUS1,79,Kawasan Kampus I/Rektorat,Kampus I,Philodendron bipinnatifidum
+414,06_KAMPUS1,80,Kawasan Kampus I/Rektorat,Kampus I,Terminalia mantaly
+415,06_KAMPUS1,81,Kawasan Kampus I/Rektorat,Kampus I,Lxora chinensis
+416,06_KAMPUS1,82,Kawasan Kampus I/Rektorat,Kampus I,Dimocarpus longan
+417,06_KAMPUS1,83,Kawasan Kampus I/Rektorat,Kampus I,Tabernaemontana divaricate
+418,06_KAMPUS1,84,Kawasan Kampus I/Rektorat,Kampus I,Polyscias fruticose
+419,06_KAMPUS1,85,Kawasan Kampus I/Rektorat,Kampus I,Alcantarea imperalis
+420,06_KAMPUS1,86,Kawasan Kampus I/Rektorat,Kampus I,Anthurium clarinervium
+421,06_KAMPUS1,87,Kawasan Kampus I/Rektorat,Kampus I,Garcinia subelliptica
+422,06_KAMPUS1,88,Kawasan Kampus I/Rektorat,Kampus I,Heptapleurum arboricola
+423,06_KAMPUS1,89,Kawasan Kampus I/Rektorat,Kampus I,Lantana camara L
+424,06_KAMPUS1,90,Kawasan Kampus I/Rektorat,Kampus I,Garcinia cochinchinensis
+425,06_KAMPUS1,91,Kawasan Kampus I/Rektorat,Kampus I,Mimuspos elengi L
+426,06_KAMPUS1,92,Kawasan Kampus I/Rektorat,Kampus I,Lantana canescens
+427,06_KAMPUS1,93,Kawasan Kampus I/Rektorat,Kampus I,Bougainvillea x buttiana
+428,06_KAMPUS1,94,Kawasan Kampus I/Rektorat,Kampus I,Hymenocallis littoralis
+429,06_KAMPUS1,95,Kawasan Kampus I/Rektorat,Kampus I,Plumeria rubra
+430,06_KAMPUS1,96,Kawasan Kampus I/Rektorat,Kampus I,Alternanthera bettzickiana
+431,06_KAMPUS1,97,Kawasan Kampus I/Rektorat,Kampus I,Mimuspos elengi
+432,06_KAMPUS1,98,Kawasan Kampus I/Rektorat,Kampus I,Costus spiralis
+433,06_KAMPUS1,99,Kawasan Kampus I/Rektorat,Kampus I,Tabebuia rosea
+434,06_KAMPUS1,100,Kawasan Kampus I/Rektorat,Kampus I,Tacoma stans
+435,06_KAMPUS1,101,Kawasan Kampus I/Rektorat,Kampus I,Dendrocalamus giganteus
+436,06_KAMPUS1,102,Kawasan Kampus I/Rektorat,Kampus I,Antigonon leptopus
+437,06_KAMPUS1,103,Kawasan Kampus I/Rektorat,Kampus I,Piper betle L
+438,06_KAMPUS1,104,Kawasan Kampus I/Rektorat,Kampus I,Carex brizoides
+439,06_KAMPUS1,105,Kawasan Kampus I/Rektorat,Kampus I,Garcinia subelliptica
+440,06_KAMPUS1,106,Kawasan Kampus I/Rektorat,Kampus I,Neoregelia farinose
+441,06_KAMPUS1,107,Kawasan Kampus I/Rektorat,Kampus I,Aquarius cordifolius
+442,06_KAMPUS1,108,Kawasan Kampus I/Rektorat,Kampus I,Mussaenda philippica
+443,06_KAMPUS1,109,Kawasan Kampus I/Rektorat,Kampus I,Dracaena fragfans
+444,06_KAMPUS1,110,Kawasan Kampus I/Rektorat,Kampus I,Cycas revoluta
+445,06_KAMPUS1,111,Kawasan Kampus I/Rektorat,Kampus I,Tarlmounia elliptica
+446,06_KAMPUS1,112,Kawasan Kampus I/Rektorat,Kampus I,Platycerium bifurcatum
+447,06_KAMPUS1,113,Kawasan Kampus I/Rektorat,Kampus I,Hibiscus x rosa-sinensis
+448,06_KAMPUS1,114,Kawasan Kampus I/Rektorat,Kampus I,Philodendrom martianum
+449,06_KAMPUS1,115,Kawasan Kampus I/Rektorat,Kampus I,Terminalia catappa
+450,06_KAMPUS1,116,Kawasan Kampus I/Rektorat,Kampus I,Tabernaemontana divaricata

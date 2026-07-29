@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Database Etnobotani Digital Tumbuhan UIN Jakarta</title>
+  <meta name="description" content="Database digital 450 observasi tumbuhan di kawasan Kampus UIN Syarif Hidayatullah Jakarta, dilengkapi nama lokal, famili, bagian dimanfaatkan, cara pengolahan, kategori tanaman, dan klasifikasi penyakit berdasarkan DiPiro.">
+  <meta name="theme-color" content="#0b4f34">
+  <meta property="og:title" content="Database Etnobotani Digital Tumbuhan UIN Jakarta">
+  <meta property="og:description" content="Katalog interaktif 450 observasi tumbuhan dengan data etnobotani, kategori tanaman, dan klasifikasi penyakit berdasarkan DiPiro.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/favicon-uin.png" type="image/png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="data/plants.js"></script>
+  <script defer src="data/photos.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Lewati ke isi</a>
+  <header class="site-header" id="top">
+    <div class="nav-shell">
+      <a class="brand" href="#beranda" aria-label="Beranda Database Etnobotani UIN">
+        <span class="brand-mark"><img src="assets/logo-uin-resmi-crop.png" alt="Logo resmi UIN Syarif Hidayatullah Jakarta"></span>
+        <span class="brand-copy"><strong>Database Etnobotani</strong><small>UIN Syarif Hidayatullah Jakarta</small></span>
+      </a>
+      <button class="menu-button" aria-expanded="false" aria-controls="main-nav">Menu</button>
+      <nav id="main-nav" class="main-nav" aria-label="Navigasi utama">
+        <a href="#beranda">Beranda</a>
+        <a href="#katalog">Katalog</a>
+        <a href="#statistik">Statistik</a>
+        <a href="#kategori">Kategori</a>
+        <a href="#galeri">Kawasan</a>
+        <a href="#tentang">Tentang</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero section" id="beranda">
+      <div class="hero-shell">
+        <div class="hero-copy">
+          <div class="hero-institution">
+            <img src="assets/logo-uin-resmi-crop.png" alt="Logo UIN Syarif Hidayatullah Jakarta">
+            <div><strong>UIN Syarif Hidayatullah Jakarta</strong><span>Database penelitian biodiversitas dan etnobotani tumbuhan kampus</span></div>
+          </div>
+          <span class="eyebrow">Pemetaan biodiversitas dan etnobotani</span>
+          <h1>Database Etnobotani Digital <em>Tumbuhan UIN Jakarta</em></h1>
+          <p>Memuat 450 observasi tumbuhan dari enam kawasan kampus, dilengkapi nama lokal, nama ilmiah, famili, bagian dimanfaatkan, cara pengolahan, kategori tanaman, serta klasifikasi penyakit berdasarkan DiPiro.</p>
+          <form class="hero-search" id="hero-search-form">
+            <label class="sr-only" for="hero-search-input">Cari data tumbuhan</label>
+            <input id="hero-search-input" type="search" placeholder="Cari nama lokal, nama ilmiah, famili, atau manfaat" autocomplete="off">
+            <button type="submit">Cari data</button>
+          </form>
+          <div class="hero-actions">
+            <a class="button primary" href="#katalog">Buka katalog</a>
+            <a class="button ghost" href="#statistik">Lihat statistik</a>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <svg viewBox="0 0 520 520" role="img">
+            <defs>
+              <linearGradient id="leafA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5e8b7"/><stop offset="1" stop-color="#4f9d69"/></linearGradient>
+              <linearGradient id="leafB" x1="1" y1="0" x2="0" y2="1"><stop stop-color="#f2d675"/><stop offset="1" stop-color="#7fb46a"/></linearGradient>
+              <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-opacity=".22"/></filter>
+            </defs>
+            <circle cx="260" cy="260" r="216" fill="#f7f4e8" opacity=".96"/>
+            <path d="M262 426C243 346 244 248 270 112" fill="none" stroke="#235f45" stroke-width="10" stroke-linecap="round"/>
+            <g filter="url(#shadow)">
+              <path d="M267 145C309 75 400 68 442 99c-25 76-99 105-175 73z" fill="url(#leafA)"/>
+              <path d="M250 209C191 132 99 142 62 184c39 70 119 82 193 48z" fill="url(#leafB)"/>
+              <path d="M276 274C342 203 434 224 463 274c-50 61-132 57-194 20z" fill="url(#leafA)"/>
+              <path d="M248 332C190 264 105 282 76 329c44 58 119 58 180 24z" fill="url(#leafB)"/>
+            </g>
+            <g fill="none" stroke="#245f45" stroke-width="3" opacity=".75">
+              <path d="M275 166c45-20 92-38 139-51"/><path d="M239 222c-55-15-103-22-149-23"/><path d="M279 291c51-12 101-13 151-7"/><path d="M241 348c-51-8-96-5-138 7"/>
+            </g>
+            <circle cx="260" cy="250" r="70" fill="#0b4f34"/>
+            <text x="260" y="244" text-anchor="middle" fill="#fff" font-size="38" font-weight="800">450</text>
+            <text x="260" y="276" text-anchor="middle" fill="#d8eadf" font-size="17" font-weight="600">OBSERVASI</text>
+          </svg>
+        </div>
+      </div>
+      <div class="stat-strip" id="hero-stats" aria-label="Ringkasan data"></div>
+    </section>
+
+    <section class="section catalogue" id="katalog">
+      <div class="section-heading">
+        <div><span class="eyebrow">Katalog tumbuhan</span><h2>Telusuri data lengkap</h2></div>
+        <p>Gunakan pencarian dan filter untuk menemukan observasi berdasarkan lokasi, famili, kategori tanaman, atau kategori penyakit.</p>
+      </div>
+      <div class="catalogue-toolbar detailed-toolbar">
+        <div class="search-box span-2">
+          <label for="catalog-search">Pencarian</label>
+          <input id="catalog-search" type="search" placeholder="Nama lokal, nama ilmiah, famili, bagian, atau pengolahan">
+        </div>
+        <div class="select-box">
+          <label for="location-filter">Lokasi</label>
+          <select id="location-filter"><option value="">Semua lokasi</option></select>
+        </div>
+        <div class="select-box">
+          <label for="family-filter">Famili</label>
+          <select id="family-filter"><option value="">Semua famili</option></select>
+        </div>
+        <div class="select-box">
+          <label for="plant-category-filter">Kategori tanaman</label>
+          <select id="plant-category-filter"><option value="">Semua kategori</option></select>
+        </div>
+        <div class="select-box">
+          <label for="disease-filter">Kategori penyakit DiPiro</label>
+          <select id="disease-filter"><option value="">Semua kategori penyakit</option></select>
+        </div>
+        <div class="select-box">
+          <label for="sort-filter">Urutkan</label>
+          <select id="sort-filter">
+            <option value="id-asc">Nomor observasi</option>
+            <option value="local-asc">Nama lokal A–Z</option>
+            <option value="name-asc">Nama ilmiah A–Z</option>
+            <option value="family">Famili</option>
+            <option value="location">Lokasi</option>
+          </select>
+        </div>
+        <label class="toggle"><input type="checkbox" id="unique-toggle"><span>Tampilkan nama ilmiah unik</span></label>
+        <button class="button soft" id="reset-filter" type="button">Reset</button>
+      </div>
+      <div class="result-line"><strong id="result-count">0</strong> data ditemukan <span id="active-filter"></span></div>
+      <div class="plant-grid" id="plant-grid" aria-live="polite"></div>
+      <div class="pagination" id="pagination" aria-label="Navigasi halaman katalog"></div>
+    </section>
+
+    <section class="section stats-section" id="statistik">
+      <div class="section-heading light">
+        <div><span class="eyebrow">Statistik biodiversitas</span><h2>Gambaran data observasi</h2></div>
+        <p>Ringkasan dihitung otomatis dari 450 baris data pada master database penelitian.</p>
+      </div>
+      <div class="stats-layout detailed-stats">
+        <article class="chart-card wide"><div class="card-title"><h3>Jumlah observasi per kawasan</h3><span>6 kawasan</span></div><div id="location-chart" class="bar-chart"></div></article>
+        <article class="chart-card"><div class="card-title"><h3>Komposisi data</h3><span>Observasi vs nama unik</span></div><div id="donut-chart" class="donut-wrap"></div></article>
+        <article class="chart-card"><div class="card-title"><h3>Famili terbanyak</h3><span>Top 8</span></div><ol id="top-families" class="rank-list"></ol></article>
+        <article class="chart-card wide"><div class="card-title"><h3>Kategori tanaman</h3><span>Bisa lebih dari satu kategori per observasi</span></div><div id="plant-category-chart" class="bar-chart"></div></article>
+        <article class="chart-card wide"><div class="card-title"><h3>Kategori penyakit berdasarkan DiPiro</h3><span>Top 10</span></div><div id="disease-chart" class="bar-chart"></div></article>
+      </div>
+    </section>
+
+    <section class="section category-section" id="kategori">
+      <div class="section-heading">
+        <div><span class="eyebrow">Klasifikasi data</span><h2>Kategori tanaman dan penyakit</h2></div>
+        <p>Pilih kategori untuk langsung menyaring katalog.</p>
+      </div>
+      <div class="category-columns">
+        <article class="category-card"><h3>Kategori tanaman</h3><div id="plant-category-list" class="category-list"></div></article>
+        <article class="category-card"><h3>Kategori penyakit berdasarkan DiPiro</h3><div id="disease-list" class="category-list two-col"></div></article>
+      </div>
+    </section>
+
+    <section class="section locations" id="galeri">
+      <div class="section-heading"><div><span class="eyebrow">Sebaran lokasi</span><h2>Enam kawasan observasi</h2></div><p>Pilih kawasan untuk langsung menyaring katalog.</p></div>
+      <div class="location-grid" id="location-grid"></div>
+    </section>
+
+    <section class="section about" id="tentang">
+      <div class="about-card">
+        <div class="about-copy">
+          <span class="eyebrow">Tentang website</span>
+          <h2>Dokumentasi digital hasil penelitian</h2>
+          <p>Website ini memuat setiap baris observasi sebagai satu entri tersendiri. Data rinci bersumber dari master database penelitian dan foto berasal dari dokumentasi lapangan enam kawasan Kampus UIN Syarif Hidayatullah Jakarta.</p>
+          <div class="notice"><strong>Catatan ilmiah:</strong> informasi bagian dimanfaatkan dan cara pengolahan mengikuti bukti yang tercatat pada master database. Pernyataan “belum ditemukan” tidak berarti tanaman pasti tidak bermanfaat, tetapi menunjukkan belum ada bukti terapeutik terverifikasi dalam data penelitian.</div>
+        </div>
+        <div class="about-list">
+          <div><span>01</span><strong>450 observasi</strong><small>selaras dengan urutan foto dan baris data</small></div>
+          <div><span>02</span><strong>Data etnobotani</strong><small>bagian dimanfaatkan dan cara pengolahan</small></div>
+          <div><span>03</span><strong>Klasifikasi DiPiro</strong><small>17 kategori penyakit</small></div>
+          <div><span>04</span><strong>Siap dipublikasikan</strong><small>kompatibel dengan GitHub Pages</small></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-brand"><img src="assets/logo-uin-resmi-crop.png" alt="Logo UIN Syarif Hidayatullah Jakarta"><div><strong>Database Etnobotani Digital</strong><span>UIN Syarif Hidayatullah Jakarta</span></div></div>
+    <p>Data penelitian mahasiswa · <span id="footer-year"></span></p>
+    <a href="#top">Kembali ke atas ↑</a>
+  </footer>
+
+  <dialog class="plant-dialog" id="plant-dialog">
+    <button class="dialog-close" type="button" aria-label="Tutup detail">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
