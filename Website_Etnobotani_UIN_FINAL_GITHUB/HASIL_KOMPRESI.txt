@@ -1,9 +1,0 @@
-HASIL KOMPRESI WEBSITE ETNOBOTANI
-Sumber: C:\Users\user\Downloads\Website_Etnobotani_UIN_FINAL_LOGO_RESMI\Website_Etnobotani_UIN_FINAL
-Hasil: C:\Users\user\Downloads\Website_Etnobotani_UIN_FINAL_LOGO_RESMI\Website_Etnobotani_UIN_FINAL_GITHUB
-Jumlah foto ditemukan: 1350
-Jumlah foto diperkecil: 1350
-Ukuran awal: 5.72 GB
-Ukuran hasil: 285.51 MB
-Penghematan: 5.44 GB
-Kesalahan: 0

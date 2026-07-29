@@ -1,1 +1,0 @@
-window.PHOTO_MAP = {};
